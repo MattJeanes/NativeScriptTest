@@ -1,0 +1,10 @@
+node_modules
+tags
+**/*.js.map
+**/*.metadata.json
+
+app/**/*.js
+platforms
+lib
+node_modules
+app/nativescript-angular
