@@ -8,3 +8,4 @@ platforms
 lib
 node_modules
 app/nativescript-angular
+.vs
